@@ -11,7 +11,7 @@ Tags can get complicated, see [advanced tag usage](https://docs.carl.gg/tags-and
 	| Name | Example | Usage |
 	| :--- | :--- | :--- |
 	| [tag get\|tag] &lt;lookup&gt; | !classdiscords | This is how you get tags after they're saved. |
-	| tag [create\|add\|+] &lt;name&gt; &lt;content&gt; | !tag + test Hello world | Makes a tag named test with the content Hello world. |
+	| tag [create\|add\|+] &lt;name&gt; &lt;content&gt; | !dms + test Dms rule no. 4 | 4: No DMs (private chatting) allowed u will get a warning now if you use DMs and if you have 2 warnings u will be classified as a @Suspected scammer  and also wear this next to your name.. |
 	| tag [delete\|del\|remove\|-] &lt;tagname&gt; | !tag - test | Removes a tag |
 	| tag ++ &lt;name&gt; &lt;pastebin link&gt; | !tag ++ setup https://pastebin.com/tehqxQRV | Since tags can have an output shorter than their length, using !tag ++ allows you to make them |
 	| tag [+=\|append] &lt;tagname&gt; &lt;content&gt; | !tag += test and my mom | Adds content to an already existing tag |
